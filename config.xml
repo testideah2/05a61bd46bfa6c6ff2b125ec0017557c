@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "site.bitrix24.proektpenza"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. proektpenza.bitrix24.site</name>
+    <name>ТЕСТ. ЮКК</name>
 
     <description>
         Индивидуальное строительство и проектирование частных домов и коммерческих сооружений под ключ
